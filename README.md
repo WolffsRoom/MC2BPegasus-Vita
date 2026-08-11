@@ -217,9 +217,3 @@ The loader code is derived from work by Volodymyr Atamanenko and the wider PS Vi
 ## AI Notice
 
 Artificial intelligence tools (Codex/ChatGPT) were used to assist with code analysis, compatibility investigation, documentation, and the iterative development process.
-
-**Disclaimer**
-
-Modern Combat 2: Black Pegasus is a trademark of Gameloft SE. © Gameloft. All rights reserved. Gameloft and the Gameloft logo are trademarks of Gameloft in the U.S. and/or other countries.
-
-The work presented in this repository is not "official" and is not produced or sanctioned by the owner(s) of the aforementioned trademark(s).
