@@ -1,0 +1,10 @@
+build*/
+.DS_Store
+.idea/
+cmake-build-*/
+lib/libc_bridge/out/
+apk/
+data/
+prepared-data/
+MC2BPegasus-Vita.vpk
+README_MC2_VITA.md
